@@ -1,6 +1,6 @@
 import webbrowser
 import time                                          # @ Lazaron Shyta
-from datetime import datetime as dt                  # @ Python MegaCourse in Udemy 
+from datetime import datetime as dt                  
 
 host_path=r"C:\Windows\System32\drivers\etc\hosts" # the file where we can change the permission for having access in certain websites
 redirect="127.0.0.1"
